@@ -1,0 +1,34 @@
+h1{
+    color: #a4a400;
+    background-color: #f0f0f0;
+    font-family:, 'Lucida Sans Unicode',helvetica,arial,sans-serif;
+    margin: auto;
+    width: 640px;
+    padding: 25px ;
+}
+h2{
+
+    color: #a4a400;
+    background-color: #f0f0f0;
+    font-family:, 'Lucida Sans Unicode',helvetica,arial,sans-serif;
+
+
+}
+body{
+    background-color: #f0f0f0;
+    color: #404040;
+    font: 11pt;
+    font-family: Georgia,garamond,serif;
+    background-image: url(silverware.jpg);
+}
+link
+dt{
+    font-style: italic;
+    background-color: #FFFFA8;
+}
+p{
+  font-style: BOLD;
+}
+li{
+    text-decoration: underline[tbsp;tablesppon];
+}
